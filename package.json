@@ -1,0 +1,11 @@
+{
+  "name": "image-search-abstraction-layer",
+  "version": "1.0.0",
+  "description": "An Bing image search abstraction layer built on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gorka Hernandez <info@gorkahernandez.com> (https://www.gorkahernandez.com)",
+  "license": "MIT"
+}
